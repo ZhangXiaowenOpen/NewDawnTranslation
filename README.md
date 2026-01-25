@@ -14,6 +14,39 @@ This repository is in Chinese. To use it:
 
 No language barrier in 2025. Welcome.
 
+# New Dawn Translation Protocol | 新黎明翻译协议
+
+**A protocol-layer solution to AI hallucination.**
+
+---
+
+## Quick Start (For English Readers)
+
+This repository is in Chinese. But that's the point — use AI to translate it.
+
+**Want to try the protocol?**
+
+1. Download: [`新黎明翻译协议_v3（中英葡外交官版）.docx`](https://github.com/ZhangXiaowenOpen/NewDawnTranslation/blob/61c2154175a2e432735dcbca93daf4be8293d1c9/%E6%96%B0%E9%BB%8E%E6%98%8E%E7%BF%BB%E8%AF%91%E5%8D%8F%E8%AE%AE_v3%EF%BC%88%E4%B8%AD%E8%8B%B1%E8%91%A1%E5%A4%96%E4%BA%A4%E5%AE%98%E7%89%88%EF%BC%89.docx)
+   → *New Dawn Translation Protocol v3 (Diplomat Edition)*
+2. Load it into any AI (Claude, GPT, Gemini, etc.)
+3. Start translating. Watch the difference.
+
+**18KB protocol. Diplomat-level output. Any model.**
+
+No language barrier in 2025. Welcome.
+
+---
+
+## 版本演化 | Version History
+
+| 版本 | 文件 | 说明 |
+|------|------|------|
+| v1.0 | `新黎明翻译协议_标准版_v1.docx` | 初始版本 |
+| v2.1 | `新黎明翻译协议_v2.1.docx` | 新增Phase 0与R0 |
+| v2.2 | `新黎明翻译协议_v2.2.docx` | 新增冲突权衡机制 |
+| **v3.0** | **[`新黎明翻译协议_v3（中英葡外交官版）.docx`](https://github.com/ZhangXiaowenOpen/NewDawnTranslation/blob/61c2154175a2e432735dcbca93daf4be8293d1c9/%E6%96%B0%E9%BB%8E%E6%98%8E%E7%BF%BB%E8%AF%91%E5%8D%8F%E8%AE%AE_v3%EF%BC%88%E4%B8%AD%E8%8B%B1%E8%91%A1%E5%A4%96%E4%BA%A4%E5%AE%98%E7%89%88%EF%BC%89.docx)** | **推荐使用 / Recommended** |
+
+All iterations preserved. See how it evolved.
 ---
 
 ## 为什么需要这个协议？
